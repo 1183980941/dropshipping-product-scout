@@ -1,0 +1,20 @@
+{
+  "name": "dropshipping-product-scout",
+  "version": "1.0.0",
+  "description": "Search curated dropshipping products, check real-time availability and variants, and estimate shipping costs via CJdropshipping. Read-only, anonymous, no account access required.",
+  "author": {
+    "name": "CJ Dropshipping",
+    "url": "https://mcp.youxiu.shop"
+  },
+  "homepage": "https://mcp.youxiu.shop",
+  "repository": "https://github.com/1183980941/dropshipping-product-scout",
+  "license": "MIT",
+  "keywords": [
+    "dropshipping",
+    "ecommerce",
+    "products",
+    "shipping",
+    "sourcing",
+    "mcp"
+  ]
+}
