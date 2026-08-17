@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "product-scout": {
+      "type": "http",
+      "url": "https://mcp.youxiu.shop/mcp"
+    }
+  }
+}
